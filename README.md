@@ -1,5 +1,7 @@
 Demo
 ----
+
+[![Join the chat at https://gitter.im/guslamstudio/JsBarcode](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/guslamstudio/JsBarcode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [Barcode Generator](http://lindell.github.io/JsBarcode/)
 
 Introduction
